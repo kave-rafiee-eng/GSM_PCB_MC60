@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=4V3 Pin=C4-2
+Removed Member From Class: ClassName=GSM Member=C4
+Change Component Footprint: Designator=C5 Old Footprint=cap/330u/16v New Footprint=CAP_TANTAL_B
+Change Component Footprint: Designator=C6 Old Footprint=cap/330u/16v New Footprint=CAP_TANTAL_B
+Change Component Footprint: Designator=C7 Old Footprint=cap/330u/16v New Footprint=CAP_TANTAL_B
+Change Component Comment : Designator=C5 Old Comment=tan New Comment=100UF-16V B
+Change Component Comment : Designator=C6 Old Comment=tan New Comment=100UF-16V B
+Change Component Comment : Designator=C7 Old Comment=tan New Comment=100UF-16V B
